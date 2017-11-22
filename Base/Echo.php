@@ -1,0 +1,2 @@
+echo "PubilcPlace";
+import "PubilcPlace";
