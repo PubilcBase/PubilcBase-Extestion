@@ -1,2 +1,1 @@
-echo "PubilcPlace";
-import "PubilcPlace";
+echo "Hello world!";
